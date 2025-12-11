@@ -6,4 +6,7 @@
 
 
 # Available Endpoints
-tbd
+## Login (/login)
+## Logout (/logout)
+## Upload image (/upload_image)
+## Like top posts (/like_top_posts)
