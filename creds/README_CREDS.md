@@ -1,10 +1,10 @@
 # Usage of this directory
 Place files in this directory, that follow this pattern
 
-#Filename
+# Filename
 "<insta_username>_creds.json"
 
-#Content of the file
+# Content of the file
 {
     "username": "insta_username",
     "password": "insta_password",
