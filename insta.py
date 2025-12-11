@@ -60,6 +60,7 @@ def login_user(insta_username):
         try:
             cl.set_settings(session)
             cl.login(username, password)
+            logger.info("Attempt to login via session")
 
             # check if session is valid
             try:
