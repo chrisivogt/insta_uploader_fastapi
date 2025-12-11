@@ -1,0 +1,3 @@
+creds/*.json
+sessions/*.json
+__pycahce__/
